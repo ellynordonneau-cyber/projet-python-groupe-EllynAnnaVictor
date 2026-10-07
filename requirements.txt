@@ -1,0 +1,9 @@
+# Librairies tierces nécessaires au projet (installation : pip install -r requirements.txt)
+# Versions figées : celles utilisées pour développer et tester le projet (Python 3.14).
+# Les modules de la bibliothèque standard (urllib, json, csv, logging, argparse...)
+# n'ont pas besoin d'être listés.
+
+pandas==3.0.6        # séance 3 : analyse.py, jointures.py, numpy_polars.py
+numpy==2.5.3         # séance 3 : numpy_polars.py (installé aussi avec pandas)
+polars==2.0.0        # séance 3 : numpy_polars.py (aperçu polars)
+matplotlib==3.11.2   # séance 4 : graphiques.py, taux_cli.py graphiques
