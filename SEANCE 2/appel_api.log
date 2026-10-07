@@ -1,0 +1,8 @@
+2026-10-07 18:22:55 - INFO - ===== Début du programme =====
+2026-10-07 18:22:55 - INFO - Appel de l'API : https://api.frankfurter.app/latest?from=EUR&to=USD
+2026-10-07 18:22:55 - INFO - Réponse reçue et lue correctement.
+2026-10-07 18:22:55 - INFO - Appel de l'API : https://api.frankfurter.app/2026-01-01..2026-09-01?from=EUR&to=USD
+2026-10-07 18:22:55 - INFO - Réponse reçue et lue correctement.
+2026-10-07 18:22:55 - INFO - Réponse brute enregistrée dans C:\Users\ellyn\OneDrive\Bureau\DAUPHINE BFA 2026-2027\PYTHON\NOUVEAU REPOSITORY\SEANCE 2\cache\EUR_USD_2026-01-01_2026-09-01.json
+2026-10-07 18:22:55 - INFO - CSV enregistré dans C:\Users\ellyn\OneDrive\Bureau\DAUPHINE BFA 2026-2027\PYTHON\NOUVEAU REPOSITORY\SEANCE 2\donnees\EUR_USD_2026-01-01_2026-09-01.csv (171 lignes)
+2026-10-07 18:22:55 - INFO - ===== Fin du programme =====
