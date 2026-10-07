@@ -1,1 +1,5 @@
-# projet-python-groupe-EllynAnnaVictor
+   # projet-python-groupe-X
+
+   - Ellyn Ordonneau-Moliton
+   - Victor Vauthier
+   - Anna Toubert
